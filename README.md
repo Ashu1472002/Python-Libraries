@@ -1,4 +1,4 @@
-# Data Visualization with Matplotlib and Seaborn#
+# Data Visualization with Matplotlib and Seaborn
 This repository contains Python scripts for data visualization using Matplotlib and Seaborn libraries.
 
 ## Overview
