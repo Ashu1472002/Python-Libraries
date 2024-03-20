@@ -19,7 +19,7 @@ Ensure you have the following Python libraries installed:
    
 You can install them using pip:
 
-pip install matplotlib seaborn
+`pip install matplotlib seaborn`
 
 **Usage**
 
@@ -27,25 +27,23 @@ To run the Matplotlib and Seaborn scripts:
 
 1. Clone the repository:
    
-   git clone https://github.com/yourusername/data-visualization.git
+   `git clone https://github.com/yourusername/data-visualization.git`
    
 3. Navigate to the project directory:
    
-   cd data-visualization
+   ``cd data-visualization``
 
 5. Run the Matplotlib script:
    
-   python matplotlib-practice.py
+   `python matplotlib-practice.py`
 
 7. Run the Seaborn script:
    
-   python seaborn-practice.py
+   `python seaborn-practice.py`
 
 **Examples**
 
 Below are examples of data visualizations created using Matplotlib and Seaborn:
-
-[Insert screenshots or links to images here]
 
 **Contributing**
 
